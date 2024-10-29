@@ -1,3 +1,4 @@
+
 .el1[type=text] {
     position:relative;
     left:10%;
@@ -44,35 +45,35 @@
 }
 
 .el1[type=text]:focus {
-    width: 60%;
+    width: 20%;
 }
 .el2[type=text] {
     transition: width 0.4s ease-in-out;
 }
 
 .el2[type=text]:focus {
-    width: 60%;
+    width: 20%;
 }
 .el3[type=text] {
     transition: width 0.4s ease-in-out;
 }
 
 .el3[type=text]:focus {
-    width: 60%;
+    width: 20%;
 }
 .el4[type=text] {
     transition: width 0.4s ease-in-out;
 }
 
 .el4[type=text]:focus {
-    width: 60%;
+    width: 20%;
 }
 .el5[type=text] {
     transition: width 0.4s ease-in-out;
 }
 
 .el5[type=text]:focus {
-    width: 60%;
+    width: 20%;
 }
 .button{
     position:relative;
