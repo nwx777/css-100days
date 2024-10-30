@@ -14,5 +14,9 @@ btn.onclick=function(){
             count[i]++;
         }
     });
+    console.log(cars)
+    console.log(cars.map(el=>{
+        return el
+    }))
     document.getElementById("outpt").innerHTML=JSON.stringify(count)
 }

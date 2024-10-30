@@ -4,7 +4,7 @@ body{
 }
 .main {
 
-background: linear-gradient(to top right, #29434E 0%, #00ACC1 100%);
+    background: linear-gradient(to top right, #29434E 0%, #00ACC1 100%);
     font-family: 'Poppins', sans-serif;
     color: #ECEFF1;
     height: 400px;
